@@ -1,0 +1,13 @@
+website hosting:
+    ->netlify
+
+            -domain management->
+                        options->edit site name-> give name
+    ->github
+
+    GIT & GITHUB
+    1.GIT: used to control versions of a code
+    2.GIT Commands: git status(to check the status of git inside the folder)
+                    git init(to create a git repository in a folder)
+                    git add . (to track all the untracked files to git)
+                    git commit -m "message"(to save/store tracked files to git)
